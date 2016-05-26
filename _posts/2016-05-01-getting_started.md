@@ -1,3 +1,9 @@
+---
+layout: page
+title: Getting Started
+category: sta
+---
+
 # Getting Started
 
 ## Installation
